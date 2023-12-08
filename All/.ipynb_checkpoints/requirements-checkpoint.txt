@@ -1,0 +1,6 @@
+pandas
+mysql-connector-python
+sqlite3
+flask
+csv
+pathlib
